@@ -1,0 +1,23 @@
+[
+  {
+    "fold": 0,
+    "clipped_fraction": 0.003391472868217054,
+    "zero_joint_fraction": 0.0,
+    "joint_min": 1.4452879325502964e-20,
+    "joint_max": 0.8529303669929504
+  },
+  {
+    "fold": 1,
+    "clipped_fraction": 0.005445075757575758,
+    "zero_joint_fraction": 0.0,
+    "joint_min": 1.7539889906569587e-20,
+    "joint_max": 0.8971163630485535
+  },
+  {
+    "fold": 2,
+    "clipped_fraction": 0.007102272727272727,
+    "zero_joint_fraction": 0.0,
+    "joint_min": 1.4885702421126646e-17,
+    "joint_max": 0.7773231267929077
+  }
+]

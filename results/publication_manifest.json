@@ -1,0 +1,167 @@
+[
+  {
+    "source": "artifacts/hagrid_hardware_clean_v2/results.csv",
+    "published": "results/clean/results.csv",
+    "sha256": "ab5c0263c746fe2bf1260c9ff7b4f55adf50cde391f72a3b405d3434512ddb4d"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_clean_v2/data_audit.json",
+    "published": "results/clean/data_audit.json",
+    "sha256": "6f812cd4e5658a2a05d1fdc2f581d62e2d8a61cb3640b084d20ef9f0d00a6566"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_clean_v2/diagnostics.json",
+    "published": "results/clean/diagnostics.json",
+    "sha256": "37fe23410944d317de299c60cfbaa70e22d60a57a76804ad6e79712e75285347"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_clean_v2/verification.json",
+    "published": "results/clean/verification.json",
+    "sha256": "6cbabac71b3bbf0ba24056a20bdee05463b6d1ca8c7c2dfdc0d9003f6a1c968f"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_clean_v2/confusion_counts.png",
+    "published": "results/clean/confusion_counts.png",
+    "sha256": "4f07d6e0c540ec13ec7864ad543d17507ca7116ee7563fa789f44e92d974251e"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_width_scan_v1/summary.csv",
+    "published": "results/width/summary.csv",
+    "sha256": "e76ecc80bb89af7ec54d99de16d723677af79e0c71b2723c2a620aa891b2a179"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_width_scan_v1/locked_configs.json",
+    "published": "results/width/locked_configs.json",
+    "sha256": "fc6747ed2017099188ab8cb79d8fa4e260e8e19e3629fe8e95bdbadd60a49521"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_width_scan_v1/validation_width_scan.png",
+    "published": "results/width/validation_width_scan.png",
+    "sha256": "c5e8d80c66cf03af803b1d1775503b73b82853716e5addf21266175eb05909b4"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_width_scan_v1/outer_comparison.png",
+    "published": "results/width/outer_comparison.png",
+    "sha256": "58523e802786a1a09c07f66b75663835b3cf19a59c60737ae7fe3bd01b2ad138"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_width_scan_v1/verification.json",
+    "published": "results/width/verification.json",
+    "sha256": "3c837b3c221186340d23239aeb1bc1693f3a3f5196705254fa8d1047495b92b7"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_multiwidth_v1/comparison.csv",
+    "published": "results/multiwidth/comparison.csv",
+    "sha256": "ae7f19aeaa6f970504bed2bbf25e7b62e782ea0ce8a848a1b83bb632a9ed1f14"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_multiwidth_v1/random_summary.csv",
+    "published": "results/multiwidth/random_summary.csv",
+    "sha256": "3f5b1d89c1135b2c17bf0a2c31640d8fbed0f8a1291678f548a544a60f74a0bf"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_multiwidth_v1/summary_per_model.csv",
+    "published": "results/multiwidth/summary_per_model.csv",
+    "sha256": "a963678127f0d2cc71108fbcd65ce386b1ccf7729f2a29c93adf1260c766673d"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_multiwidth_v1/validation_results.csv",
+    "published": "results/multiwidth/validation_results.csv",
+    "sha256": "6bbd47060deb3e7d07b83ce3493ca382ca2e99aac17c0a280d05164d3311e3da"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_multiwidth_v1/random_all_validation.csv",
+    "published": "results/multiwidth/random_all_validation.csv",
+    "sha256": "caab5dcf36f9ce3bf18c765181fb419153b3e76da40d589710bd4b22544c371c"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_multiwidth_v1/random_all_outer_severity_average.csv",
+    "published": "results/multiwidth/random_all_outer_severity_average.csv",
+    "sha256": "c9794f34761a9d79dfec2a8aad0a2034fff275bdf4514af23a0232923826b1fa"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_multiwidth_v1/per_class_severity_average.csv",
+    "published": "results/multiwidth/per_class_severity_average.csv",
+    "sha256": "1cfe97b9bdf1a771804649f59e585d0dc91d2930adad6b5f8bbb3726d2616815"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_multiwidth_v1/comparison.png",
+    "published": "results/multiwidth/comparison.png",
+    "sha256": "6da2ceafd624a215fb85d86c5536aa73544752ccb42e029c93292f04e56e8805"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_multiwidth_v1/directed_search.png",
+    "published": "results/multiwidth/directed_search.png",
+    "sha256": "a75ec8ae4425bae2f13ed4175e1f343af3225c13c7dcc5d77ee419b4c641decd"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_multiwidth_v1/width_distribution.png",
+    "published": "results/multiwidth/width_distribution.png",
+    "sha256": "b7b045f9ab0db3cbda9b87de8088d66bc33403e378c93a2d238e39596ba24795"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_multiwidth_v1/verification.json",
+    "published": "results/multiwidth/verification.json",
+    "sha256": "105f804abc4392377d957acbcdeb7ce047798f7f080d5ed0841ce3819fd20c5b"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_multiwidth_v1/reload_verification.json",
+    "published": "results/multiwidth/reload_verification.json",
+    "sha256": "786efcb65262b9c6b9281dc0b10961d03c478ed398aad40b3563594562ff9279"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_cycle_v1/summary.csv",
+    "published": "results/cycle/summary.csv",
+    "sha256": "d48b5ba133bcf7c34fef3e802352ad40f012a946d349ad665df752b96fc84442"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_cycle_v1/severity_average.csv",
+    "published": "results/cycle/severity_average.csv",
+    "sha256": "0184f47a40d02c7c38db61762f85b6b9f544fc8418ecfcabcc427c1930c87615"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_cycle_v1/paired_gains.csv",
+    "published": "results/cycle/paired_gains.csv",
+    "sha256": "5cdf9bd02250fa3a4091884f7253b5760b9b4fa748578f31158894d69f392cdc"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_cycle_v1/paired_cycle_gain_sd.csv",
+    "published": "results/cycle/paired_cycle_gain_sd.csv",
+    "sha256": "0b2999f8be5973de630dd235c185ad84d64bc165e4267c6b158fedc4287a80d3"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_cycle_v1/class_comparison.csv",
+    "published": "results/cycle/class_comparison.csv",
+    "sha256": "9b1abd14dfc8fc57458baaea8f3cd5ae9ba6777e36f20185c7f7bbf87fa44064"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_cycle_v1/cycle_robustness.png",
+    "published": "results/cycle/cycle_robustness.png",
+    "sha256": "bb92b002100f569ca7c91fde78209a295e42f70da4ff0405160b3840fc6ee5b8"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_cycle_v1/verification.json",
+    "published": "results/cycle/verification.json",
+    "sha256": "6f2983a236f4f77e54ddb4f1e8c7eb06c14b9823bbc14af6963ff0f1a103c880"
+  },
+  {
+    "source": "artifacts/hagrid_hardware_cycle_v1/replay_checks.json",
+    "published": "results/cycle/replay_checks.json",
+    "sha256": "4b7414dfaa62478b4e16e885543212c0783787647ff58d633e36bae01e847f15"
+  },
+  {
+    "source": "outputs/HaGRID_XJTLU_阶段周报_2026-10-26/HaGRID_多宽度与Cycle鲁棒性_XJTLU周报.pptx",
+    "published": "reports/weekly/HaGRID_XJTLU_weekly.pptx",
+    "sha256": "d7d49b12d7da508712ae131a0532ba4d0911710c3335613c26e77bff9bfc8432"
+  },
+  {
+    "source": "outputs/HaGRID_XJTLU_阶段周报_2026-10-26/HaGRID_weekly_preview.pdf",
+    "published": "reports/weekly/HaGRID_XJTLU_weekly.pdf",
+    "sha256": "897bf7be831fb391cd8c283eabe345c4943e4464b57a1a03f2f22495c9dd304b"
+  },
+  {
+    "source": "outputs/HaGRID_XJTLU_阶段周报_2026-10-26/逐页讲稿.md",
+    "published": "reports/weekly/speaker_notes.md",
+    "sha256": "e30d705c9bd5e9e07503a9e7eac0d62d12b4e284dd3cb4927874d2a595631b2d"
+  }
+]

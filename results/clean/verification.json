@@ -1,0 +1,9 @@
+{
+  "sources_unchanged": true,
+  "test_evaluated": false,
+  "all_outer_samples_predicted_once": true,
+  "elapsed_seconds": 3.4741951710020658,
+  "python": "3.10.12 (main, Aug 31 2026, 10:18:17) [GCC 11.4.0]",
+  "numpy": "2.2.6",
+  "torch": "2.7.0+cu118"
+}

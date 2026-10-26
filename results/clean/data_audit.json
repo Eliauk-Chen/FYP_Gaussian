@@ -1,0 +1,119 @@
+[
+  {
+    "fold": 0,
+    "split": "train",
+    "n": 395,
+    "users": 395,
+    "classes": {
+      "fist": 113,
+      "peace": 111,
+      "like": 93,
+      "ok": 78
+    },
+    "user_intersections": 0
+  },
+  {
+    "fold": 0,
+    "split": "val",
+    "n": 133,
+    "users": 133,
+    "classes": {
+      "ok": 40,
+      "like": 37,
+      "fist": 28,
+      "peace": 28
+    },
+    "user_intersections": 0
+  },
+  {
+    "fold": 0,
+    "split": "outer_holdout",
+    "n": 258,
+    "users": 258,
+    "classes": {
+      "ok": 82,
+      "like": 66,
+      "peace": 59,
+      "fist": 51
+    },
+    "user_intersections": 0
+  },
+  {
+    "fold": 1,
+    "split": "train",
+    "n": 391,
+    "users": 391,
+    "classes": {
+      "ok": 101,
+      "peace": 100,
+      "like": 99,
+      "fist": 91
+    },
+    "user_intersections": 0
+  },
+  {
+    "fold": 1,
+    "split": "val",
+    "n": 131,
+    "users": 131,
+    "classes": {
+      "peace": 37,
+      "like": 33,
+      "ok": 33,
+      "fist": 28
+    },
+    "user_intersections": 0
+  },
+  {
+    "fold": 1,
+    "split": "outer_holdout",
+    "n": 264,
+    "users": 264,
+    "classes": {
+      "fist": 73,
+      "ok": 66,
+      "like": 64,
+      "peace": 61
+    },
+    "user_intersections": 0
+  },
+  {
+    "fold": 2,
+    "split": "train",
+    "n": 392,
+    "users": 392,
+    "classes": {
+      "ok": 109,
+      "like": 99,
+      "peace": 93,
+      "fist": 91
+    },
+    "user_intersections": 0
+  },
+  {
+    "fold": 2,
+    "split": "val",
+    "n": 130,
+    "users": 130,
+    "classes": {
+      "ok": 39,
+      "fist": 33,
+      "like": 31,
+      "peace": 27
+    },
+    "user_intersections": 0
+  },
+  {
+    "fold": 2,
+    "split": "outer_holdout",
+    "n": 264,
+    "users": 264,
+    "classes": {
+      "peace": 78,
+      "fist": 68,
+      "like": 66,
+      "ok": 52
+    },
+    "user_intersections": 0
+  }
+]

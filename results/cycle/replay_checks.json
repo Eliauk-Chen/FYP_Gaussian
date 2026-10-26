@@ -1,0 +1,7 @@
+{
+  "original_simulator_no_noise_exact": true,
+  "replayed_sample_model_pairs": 54,
+  "labels_exact": true,
+  "score_atol": 2e-07,
+  "score_rtol": 2e-06
+}

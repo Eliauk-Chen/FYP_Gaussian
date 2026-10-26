@@ -1,0 +1,11 @@
+{
+  "replayed_sample_model_pairs": 324,
+  "predicted_labels_exact": true,
+  "saved_scores_match": true,
+  "score_rtol": 2e-06,
+  "score_atol": 2e-07,
+  "independent_mixed_target_refit_max_error": 4.99409541498963e-14,
+  "numpy": "2.2.6",
+  "sklearn": "1.7.2",
+  "scipy": "1.15.3"
+}

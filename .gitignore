@@ -1,0 +1,27 @@
+# Data, caches, response banks and user-level manifests remain LOCAL.
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+data/
+metadata/
+upstream/
+artifacts/
+outputs/
+local_archive/
+*.npz
+*.npy
+*.joblib
+*.pt
+*.pth
+*.zip
+*.log
+# Historical local reports are preserved but not part of this release.
+docs/*
+!docs/研究设计与复现.md
+!docs/数据与发布范围.md
+!docs/最新实验汇总.md
+# Publishing is by explicit staging, never git add .

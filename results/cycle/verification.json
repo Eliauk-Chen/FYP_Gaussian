@@ -1,0 +1,10 @@
+{
+  "sources_unchanged": true,
+  "mean_predictions_exact": true,
+  "finite_features": true,
+  "user_disjoint": true,
+  "refitted": false,
+  "official_test_used": false,
+  "prediction_count": 3615600,
+  "elapsed_seconds": 102.19357095801388
+}
